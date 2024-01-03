@@ -1,13 +1,13 @@
 <template>
   <div
-    class="block w-64 h-auto rounded-lg bg-white p-6 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700"
+    class="block w-64 h-auto rounded-lg py-6 pl-6 pr-1 border-1 border-[#1D212C] bg-[#596074] shadow-[12px_17px_17px_-7px_#252525]"
   >
     <h5
-      class="mb-2 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50"
+      class="mb-4 text-[20px] text-[#C9AD8B] font-[PoppinsB] leading-tight"
     >
       {{ sectionTitle }}
     </h5>
-    <div class="grid grid-flow-col justify-center my-3 space-x-2">
+    <div class="grid text-lg font-[Poppins] text-white  namedCard">
       <p v-for="(tech, index) in technologies" :key="index">{{ tech }}</p>
     </div>
   </div>
@@ -39,4 +39,10 @@ export default defineComponent({
 });
 </script>
 
-<style scoped></style>
+<style scoped>
+.namedCard {
+  grid-template-columns: repeat(auto-fit, minmax(4px,85px));
+  grid-auto-rows: auto;
+  gap: 10px;
+}
+</style>

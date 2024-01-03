@@ -14,5 +14,24 @@ body{
 
 @font-face {
     font-family: 'Poppins';
+    src: url('@/assets/fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'PoppinsB';
+    src: url('@/assets/fonts/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'PoppinsM';
     src: url('@/assets/fonts/Poppins-Medium.ttf');
+}
+
+.titleGradient{
+    background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    --tw-gradient-from: #C9AD8B var(--tw-gradient-from-position);
+    --tw-gradient-to: rgb(201 173 139 / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+    --tw-gradient-to: #646D88 var(--tw-gradient-to-position);
+    display: inline-block;
+    color: transparent;
+    background-clip: text;
 }

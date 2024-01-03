@@ -2,9 +2,9 @@
   <!--warper-->
   <div>
     <!--section title-->
-    <h5>Technologies</h5>
+    <h5 class="mb-24 text-[28px] font-[PoppinsB] titleGradient">Technologies</h5>
     <!--section Content-->
-    <div class="flex justify-inline space-x-4">
+    <div class="flex justify-inline space-x-7">
         <OrganismsTechnologiesCard section-title="Front-end" :technologies="['Vue','typescript','Nuxt']"/>
         <OrganismsTechnologiesCard section-title="Back-end" :technologies="['Adonis','Node']"/>
         <OrganismsTechnologiesCard section-title="UI/UX" :technologies="['Figma']"/>
@@ -18,4 +18,6 @@ import { defineComponent } from "vue";
 export default defineComponent({});
 </script>
 
-<style scoped></style>
+<style scoped>
+
+</style>
