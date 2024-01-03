@@ -1,13 +1,7 @@
 <template>
-    <div>
-
-    </div>
+  <div class="flex justify-evenly">
+    <AtomsLogo />
+    <MoleculesHeaderNav />
+    <MoleculesSocialLinks />
+  </div>
 </template>
-
-<script lang="ts">
-
-</script>
-
-<style scoped>
-
-</style>

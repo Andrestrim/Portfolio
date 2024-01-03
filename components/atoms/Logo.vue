@@ -1,13 +1,5 @@
 <template>
-    <div>
-
-    </div>
+    <NuxtLink to="./">
+        <img src="@/assets/images/SingleLogo.svg" alt="Logo">
+    </NuxtLink>
 </template>
-
-<script lang="ts">
-
-</script>
-
-<style scoped>
-
-</style>

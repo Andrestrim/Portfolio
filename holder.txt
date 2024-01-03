@@ -1,0 +1,147 @@
+PROJECTS SECTION - START 
+<template>
+    <div class="w-[968px] h-[1515px] relative">
+    <div class="w-[400px] h-[656px] left-[568px] top-[859px] absolute">
+        <div class="w-[400px] h-[656px] left-0 top-0 absolute bg-zinc-800 rounded-bl-[11px] rounded-br-[11px] border border-white blur-sm" />
+        <div class="w-[277px] h-[39px] left-[61px] top-[592px] absolute">
+            <div class="w-[84px] h-[39px] left-[193px] top-0 absolute">
+                <div class="w-[84px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="left-[16px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Source</div>
+            </div>
+            <div class="w-[70px] h-[39px] left-0 top-0 absolute">
+                <div class="w-[70px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="w-[44.17px] left-[13.33px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Code</div>
+            </div>
+        </div>
+        <div class="w-[318px] h-[19px] left-[41px] top-[530px] absolute">
+            <div class="left-[93px] top-0 absolute text-white text-base font-normal font-['Inter']">Express</div>
+            <div class="left-[277px] top-0 absolute text-white text-base font-normal font-['Inter']">Node</div>
+            <div class="left-[193px] top-0 absolute text-white text-base font-normal font-['Inter']">React</div>
+            <div class="left-0 top-0 absolute text-white text-base font-normal font-['Inter']">Mongo</div>
+        </div>
+        <div class="left-[49px] top-[302px] absolute text-white text-base font-normal font-['Inter']">Us simply dummy text of the printing and<br/>typesetting industry. Lorem Ipsum has <br/>been the industry's standard dummy text<br/>ever since the 1500s, when an unknown <br/>printer took a galley of type and it to <br/>make a type specimen book. It has <br/>survived not only five centuries, but also <br/>the leap into.</div>
+        <div class="w-[50px] h-[0px] left-[175px] top-[279px] absolute border-2 border-orange-300"></div>
+        <div class="left-[160px] top-[216px] absolute text-white text-3xl font-normal font-['Inter']">Titulo</div>
+        <div class="w-[400px] h-52 left-0 top-0 absolute bg-zinc-300" />
+    </div>
+    <div class="w-[400px] h-[656px] left-[68px] top-[859px] absolute">
+        <div class="w-[400px] h-[656px] left-0 top-0 absolute bg-zinc-800 rounded-bl-[11px] rounded-br-[11px] border border-white blur-sm" />
+        <div class="w-[277px] h-[39px] left-[61px] top-[592px] absolute">
+            <div class="w-[84px] h-[39px] left-[193px] top-0 absolute">
+                <div class="w-[84px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="left-[16px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Source</div>
+            </div>
+            <div class="w-[70px] h-[39px] left-0 top-0 absolute">
+                <div class="w-[70px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="w-[44.17px] left-[13.33px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Code</div>
+            </div>
+        </div>
+        <div class="w-[318px] h-[19px] left-[41px] top-[530px] absolute">
+            <div class="left-[93px] top-0 absolute text-white text-base font-normal font-['Inter']">Express</div>
+            <div class="left-[277px] top-0 absolute text-white text-base font-normal font-['Inter']">Node</div>
+            <div class="left-[193px] top-0 absolute text-white text-base font-normal font-['Inter']">React</div>
+            <div class="left-0 top-0 absolute text-white text-base font-normal font-['Inter']">Mongo</div>
+        </div>
+        <div class="left-[49px] top-[302px] absolute text-white text-base font-normal font-['Inter']">Us simply dummy text of the printing and<br/>typesetting industry. Lorem Ipsum has <br/>been the industry's standard dummy text<br/>ever since the 1500s, when an unknown <br/>printer took a galley of type and it to <br/>make a type specimen book. It has <br/>survived not only five centuries, but also <br/>the leap into.</div>
+        <div class="w-[50px] h-[0px] left-[175px] top-[279px] absolute border-2 border-orange-300"></div>
+        <div class="left-[160px] top-[216px] absolute text-white text-3xl font-normal font-['Inter']">Titulo</div>
+        <div class="w-[400px] h-52 left-0 top-0 absolute bg-zinc-300" />
+    </div>
+    <div class="w-[400px] h-[656px] left-[68px] top-[153px] absolute">
+        <div class="w-[400px] h-[656px] left-0 top-0 absolute bg-zinc-800 rounded-bl-[11px] rounded-br-[11px] border border-white blur-sm" />
+        <div class="w-[277px] h-[39px] left-[61px] top-[592px] absolute">
+            <div class="w-[84px] h-[39px] left-[193px] top-0 absolute">
+                <div class="w-[84px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="left-[16px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Source</div>
+            </div>
+            <div class="w-[70px] h-[39px] left-0 top-0 absolute">
+                <div class="w-[70px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="w-[44.17px] left-[13.33px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Code</div>
+            </div>
+        </div>
+        <div class="w-[318px] h-[19px] left-[41px] top-[530px] absolute">
+            <div class="left-[93px] top-0 absolute text-white text-base font-normal font-['Inter']">Express</div>
+            <div class="left-[277px] top-0 absolute text-white text-base font-normal font-['Inter']">Node</div>
+            <div class="left-[193px] top-0 absolute text-white text-base font-normal font-['Inter']">React</div>
+            <div class="left-0 top-0 absolute text-white text-base font-normal font-['Inter']">Mongo</div>
+        </div>
+        <div class="left-[49px] top-[302px] absolute text-white text-base font-normal font-['Inter']">Us simply dummy text of the printing and<br/>typesetting industry. Lorem Ipsum has <br/>been the industry's standard dummy text<br/>ever since the 1500s, when an unknown <br/>printer took a galley of type and it to <br/>make a type specimen book. It has <br/>survived not only five centuries, but also <br/>the leap into.</div>
+        <div class="w-[50px] h-[0px] left-[175px] top-[279px] absolute border-2 border-orange-300"></div>
+        <div class="left-[160px] top-[216px] absolute text-white text-3xl font-normal font-['Inter']">Titulo</div>
+        <div class="w-[400px] h-52 left-0 top-0 absolute bg-zinc-300" />
+    </div>
+    <div class="w-[400px] h-[656px] left-[568px] top-[153px] absolute">
+        <div class="w-[400px] h-[656px] left-0 top-0 absolute bg-zinc-800 rounded-bl-[11px] rounded-br-[11px] border border-white blur-sm" />
+        <div class="w-[277px] h-[39px] left-[61px] top-[592px] absolute">
+            <div class="w-[84px] h-[39px] left-[193px] top-0 absolute">
+                <div class="w-[84px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="left-[16px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Source</div>
+            </div>
+            <div class="w-[70px] h-[39px] left-0 top-0 absolute">
+                <div class="w-[70px] h-[39px] left-0 top-0 absolute bg-orange-300 rounded-[15px]" />
+                <div class="w-[44.17px] left-[13.33px] top-[10px] absolute text-white text-base font-normal font-['Inter']">Code</div>
+            </div>
+        </div>
+        <div class="w-[318px] h-[19px] left-[41px] top-[530px] absolute">
+            <div class="left-[93px] top-0 absolute text-white text-base font-normal font-['Inter']">Express</div>
+            <div class="left-[277px] top-0 absolute text-white text-base font-normal font-['Inter']">Node</div>
+            <div class="left-[193px] top-0 absolute text-white text-base font-normal font-['Inter']">React</div>
+            <div class="left-0 top-0 absolute text-white text-base font-normal font-['Inter']">Mongo</div>
+        </div>
+        <div class="left-[49px] top-[302px] absolute text-white text-base font-normal font-['Inter']">Us simply dummy text of the printing and<br/>typesetting industry. Lorem Ipsum has <br/>been the industry's standard dummy text<br/>ever since the 1500s, when an unknown <br/>printer took a galley of type and it to <br/>make a type specimen book. It has <br/>survived not only five centuries, but also <br/>the leap into.</div>
+        <div class="w-[50px] h-[0px] left-[175px] top-[279px] absolute border-2 border-orange-300"></div>
+        <div class="left-[160px] top-[216px] absolute text-white text-3xl font-normal font-['Inter']">Titulo</div>
+        <div class="w-[400px] h-52 left-0 top-0 absolute bg-zinc-300" />
+    </div>
+    <div class="left-0 top-0 absolute text-stone-400 text-[56px] font-normal font-['Inter']">Projetos</div>
+</div>
+</template>
+
+<script lang="ts">
+import { defineComponent } from 'vue'
+
+export default defineComponent({})
+</script>
+
+<style scoped>
+
+</style>
+PROJECTS SECTION - END
+
+
+TECHNOLOGIES SECTION - START  
+
+
+<template>
+    <div class="w-[913px] h-[357px] relative">
+    <div class="w-[913px] h-[134px] left-0 top-[223px] absolute">
+        <div class="w-[193px] h-[134px] left-[720px] top-0 absolute">
+            <div class="w-[193px] h-[134px] left-0 top-0 absolute bg-zinc-300 bg-opacity-0" />
+            <div class="left-[3px] top-[106px] absolute text-white text-lg font-normal font-['Inter']">React.js</div>
+            <div class="left-[3px] top-[76px] absolute text-zinc-300 text-lg font-normal font-['Inter']">Expertise with</div>
+            <div class="left-[2px] top-[32px] absolute text-white text-[28px] font-bold font-['Inter']">UI/UX</div>
+            <div class="w-[25px] h-[25px] left-[6px] top-[2px] absolute bg-zinc-300" />
+        </div>
+        <div class="w-[193px] h-[134px] left-[361px] top-0 absolute">
+            <div class="w-[193px] h-[134px] left-0 top-0 absolute bg-zinc-300 bg-opacity-0" />
+            <div class="left-[2px] top-[106px] absolute text-white text-lg font-normal font-['Inter']">React.js</div>
+            <div class="left-[2px] top-[76px] absolute text-zinc-300 text-lg font-normal font-['Inter']">Expertise with</div>
+            <div class="left-[1px] top-[32px] absolute text-white text-[28px] font-bold font-['Inter']">Back-End</div>
+            <div class="w-[25px] h-[25px] left-[5px] top-[2px] absolute bg-zinc-300" />
+        </div>
+        <div class="w-[195px] h-[134px] left-0 top-0 absolute">
+            <div class="w-[195px] h-[134px] left-0 top-0 absolute bg-zinc-300 bg-opacity-0" />
+            <div class="left-[3px] top-[106px] absolute text-white text-lg font-normal font-['Inter']">React.js</div>
+            <div class="left-[3px] top-[76px] absolute text-zinc-300 text-lg font-normal font-['Inter']">Expertise with</div>
+            <div class="left-[2px] top-[32px] absolute text-white text-[28px] font-bold font-['Inter']">Front-end</div>
+            <div class="w-[25px] h-[25px] left-[6px] top-[2px] absolute bg-zinc-300" />
+        </div>
+    </div>
+    <div class="left-[2px] top-[88px] absolute text-white text-lg font-normal font-['Inter']">Trabalhei com diversas tecnologias no mundo do desenvolvimento. <br/>Do back-end ao front-end</div>
+    <div class="w-[351px] left-[2px] top-0 absolute text-stone-400 text-[56px] font-normal font-['Inter']">Technologies</div>
+</div>
+</template>
+
+
+TECHNOLOGIES SECTION - END  
+

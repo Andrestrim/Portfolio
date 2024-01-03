@@ -1,19 +1,13 @@
 <template>
-    <div>
-        <header></header>
-        <div class="content">
-            <slot />
-        </div>
-        <footer></footer>
+  <div class="max-w-full flex flex-col">
+    <OrganismsHeader class="items-start mx-4 mt-3" />
+    <div class="block">
+      <slot />
     </div>
+    <OrganismsFooter class="items-end" />
+  </div>
 </template>
 
-<script lang="ts">
-import { defineComponent } from 'vue'
-
-export default defineComponent({})
+<script>
+import "@/assets/css/main.css";
 </script>
-
-<style scoped>
-
-</style>
