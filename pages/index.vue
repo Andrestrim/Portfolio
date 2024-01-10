@@ -25,8 +25,8 @@
       </div>
 
       <div class="space-x-2 flex justify-center cursor-pointer relative">
-        <button class="bg-cyan-900 hover:bg-indigo-900 p-2 rounded-md">Saiba mais</button>
-        <button class="bg-cyan-900 hover:bg-indigo-900 p-2 rounded-md">Meus projetos</button>
+        <AtomsButton btText="More About me"/>
+        <AtomsButton btText="My Projects"/>
       </div>
     </div>
 

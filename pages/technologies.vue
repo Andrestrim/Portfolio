@@ -2,12 +2,12 @@
   <!--warper-->
   <div>
     <!--section title-->
-    <h5 class="mb-24 text-[28px] font-[PoppinsB] titleGradient">Technologies</h5>
+    <h5 class="titleGradient">Technologies</h5>
     <!--section Content-->
-    <div class="flex justify-inline space-x-7">
-        <OrganismsTechnologiesCard section-title="Front-end" :technologies="['Vue','typescript','Nuxt']"/>
-        <OrganismsTechnologiesCard section-title="Back-end" :technologies="['Adonis','Node']"/>
-        <OrganismsTechnologiesCard section-title="UI/UX" :technologies="['Figma']"/>
+    <div class="flex flex-wrap">
+        <OrganismsTechnologiesCard class="grow my-5 mr-7" section-title="Front-end" :technologies="['Vue','typescript','Nuxt']"/>
+        <OrganismsTechnologiesCard class="grow my-5 mr-7" section-title="Back-end" :technologies="['Adonis','Node']"/>
+        <OrganismsTechnologiesCard class="grow my-5" section-title="UI/UX" :technologies="['Figma']"/>
     </div>
   </div>
 </template>

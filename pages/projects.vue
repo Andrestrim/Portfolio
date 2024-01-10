@@ -1,7 +1,7 @@
 <template>
   <div>
     <!--warper-->
-    <div class="mb-3 titleGradient">Projects</div>
+    <div class="titleGradient">Projects</div>
     <!--section title-->
     <div class="grid colunas">
       <OrganismsProjectsCard
@@ -26,8 +26,8 @@
 
 <style scoped>
 .colunas {
-  grid-template-columns: repeat(auto-fit, minmax(10px,450px));
+  grid-template-columns: repeat(auto-fit, minmax(420px,450px));
   grid-auto-rows: auto;
-  gap: 20px;
+  gap: 25px;
 }
 </style>

@@ -1,8 +1,8 @@
 <template>
     <!--warper-->
-    <div>
+    <div class="max-w-[1280px]">
         <!--title-->
-        <h5 class="mb-7 font-[PoppinsB] titleGradient">About Me</h5>
+        <h5 class="titleGradient">About Me</h5>
         <!--text about me-->
         <p>is simply dummy text of the printing and typesetting industry. Lorem
 Ipsum has been the industry's standard dummy text ever since the 1500s, when an

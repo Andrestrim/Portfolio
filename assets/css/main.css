@@ -34,4 +34,23 @@ body{
     display: inline-block;
     color: transparent;
     background-clip: text;
+    font-size: 28px;
+    margin-bottom: 6rem;
+    font-family: PoppinsB;
+}
+
+.cardStyle{
+    --tw-shadow: 12px 17px 17px -7px #252525;
+    --tw-shadow-colored: 12px 17px 17px -7px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-bg-opacity: 1;
+    background-color: rgb(89 96 116 / var(--tw-bg-opacity));
+    --tw-border-opacity: 1;
+    border-color: rgb(29 33 44 / var(--tw-border-opacity));
+    border-radius: 0.5rem;
+    padding-top: 1.5rem/* 24px */;
+    padding-bottom: 1.5rem/* 24px */;
+    padding-left: 1.5rem/* 24px */;
+    padding-right: 1.5rem/* 24px */;
+    border-width: 1px;
 }

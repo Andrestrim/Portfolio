@@ -1,13 +1,13 @@
 <template>
   <div
-    class="block w-64 h-auto rounded-lg py-6 pl-6 pr-1 border-1 border-[#1D212C] bg-[#596074] shadow-[12px_17px_17px_-7px_#252525]"
+    class="flex flex-col min-w-[194px] max-w-[256px] h-auto cardStyle"
   >
     <h5
-      class="mb-4 text-[20px] text-[#C9AD8B] font-[PoppinsB] leading-tight"
+      class="mb-4 text-[20px] text-white font-[PoppinsB] leading-tight"
     >
       {{ sectionTitle }}
     </h5>
-    <div class="grid text-lg font-[Poppins] text-white  namedCard">
+    <div class="flex flex-wrap gap-3 justify-evenly text-lg text-[#C8CAD1]">
       <p v-for="(tech, index) in technologies" :key="index">{{ tech }}</p>
     </div>
   </div>
