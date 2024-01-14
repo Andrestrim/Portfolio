@@ -4,8 +4,7 @@
         <!--title-->
         <h5 class="titleGradient">About Me</h5>
         <!--text about me-->
-        <p>is simply dummy text of the printing and typesetting industry. Lorem
-Ipsum has been the industry's standard dummy text ever since the 1500s, when an
-unknown printer took a galley of type.</p>
+        <p class="text-justify mb-4">&emsp; I'm a 24 years old brazilian male, graduated in july 2023 with a Bachelor's Degree in Information Systems from Estácio de Sá University with two years of experience in software development. Experienced in Javascript, Typescript, Vue.js, knowledge with Node.js, relational databases and adventuring myself in React.js. Seeking a full-time software development position to deliver solutions to business needs. </p>
+        <AtomsButton btText='My technologies' link='/technologies' />
     </div>
 </template>

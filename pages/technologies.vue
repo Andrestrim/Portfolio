@@ -5,9 +5,9 @@
     <h5 class="titleGradient">Technologies</h5>
     <!--section Content-->
     <div class="flex flex-wrap">
-        <OrganismsTechnologiesCard class="grow my-5 mr-7" section-title="Front-end" :technologies="['Vue','typescript','Nuxt']"/>
-        <OrganismsTechnologiesCard class="grow my-5 mr-7" section-title="Back-end" :technologies="['Adonis','Node']"/>
-        <OrganismsTechnologiesCard class="grow my-5" section-title="UI/UX" :technologies="['Figma']"/>
+        <OrganismsTechnologiesCard class="grow my-5 mr-7" section-title="Front-end" :technologies="['javascript','typescript','Vue','Nuxt']"/>
+        <OrganismsTechnologiesCard class="grow my-5 mr-7" section-title="Back-end" :technologies="['Node','Adonis']"/>
+        <OrganismsTechnologiesCard class="grow my-5" section-title="UI/UX" :is-learning="true" :technologies="['Figma']"/>
     </div>
   </div>
 </template>
