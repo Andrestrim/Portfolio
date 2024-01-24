@@ -6,3 +6,10 @@
     <NuxtLink to="/about">About</NuxtLink>
   </nav>
 </template>
+
+<style scoped>
+.router-link-exact-active{
+  color: #C9AD8B;
+  font-family: PoppinsB;
+}
+</style>

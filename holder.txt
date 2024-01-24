@@ -218,3 +218,20 @@ HOME SECTION - END
 
 
 
+HEADER SECTION - END 
+
+
+
+#just an idea#
+<div>
+    <span>lang: </span>
+    <span><button id="lang-pt">PT</button></span>
+    <span> / </span>
+    <span><button id="lang-en">EN</button></span>
+</div>
+
+
+HEADER SECTION - END 
+
+
+

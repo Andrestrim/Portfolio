@@ -2,7 +2,7 @@
   <div class="grid relative grid-cols-2">
     <div class="flex flex-col relative w-full">
       <div class="">
-        <p>Welcome to my portfolio</p>
+        <p class="text-[28px] font-[PoppinsB]">Welcome to my portfolio !</p>
       </div>
 
       <div class="my-6 space-y-4">
